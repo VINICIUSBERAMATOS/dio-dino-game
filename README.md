@@ -1,5 +1,5 @@
-#Jogo do dinossauro do Google quando está sem conexão de internet
+# Jogo do dinossauro do Google quando está sem conexão de internet
 
-### HTML
-### JavaScript
-### CSS
+#### HTML
+#### JavaScript
+#### CSS
